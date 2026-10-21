@@ -1,0 +1,37 @@
+# Python and local environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.python-version.local
+
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+
+# Tool outputs and build artifacts
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+.coverage.*
+htmlcov/
+build/
+dist/
+.local/
+# Keep knowledge files and persistent indexes out of Git even with common custom paths.
+uploads/
+chroma/
+chroma-data/
+*.sqlite3
+*.sqlite3-shm
+*.sqlite3-wal
+*.egg-info/
+*.log
+
+# Editors and operating systems
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db

@@ -1,0 +1,24 @@
+{"id":"return-01","question":"How many days after delivery can I request a return?","expected_sources":["return-policy.md"]}
+{"id":"return-02","question":"Can I return an opened hygiene product just because I changed my mind?","expected_sources":["return-policy.md"]}
+{"id":"return-03","question":"Who pays return postage for a defective item?","expected_sources":["return-policy.md"]}
+{"id":"return-04","question":"When is a refund initiated after a returned item is inspected?","expected_sources":["return-policy.md"]}
+{"id":"return-05","question":"Does the AI assistant approve returns?","expected_sources":["return-policy.md"]}
+{"id":"shipping-01","question":"Do you ship internationally?","expected_sources":["shipping-policy.md"]}
+{"id":"shipping-02","question":"What is the standard shipping charge?","expected_sources":["shipping-policy.md"]}
+{"id":"shipping-03","question":"How much merchandise qualifies for free standard shipping?","expected_sources":["shipping-policy.md"]}
+{"id":"shipping-04","question":"How long does express shipping usually take after dispatch?","expected_sources":["shipping-policy.md"]}
+{"id":"shipping-05","question":"What is the UTC order processing cutoff time?","expected_sources":["shipping-policy.md"]}
+{"id":"warranty-01","question":"How long does the manufacturing defect warranty last?","expected_sources":["warranty-faq.md"]}
+{"id":"warranty-02","question":"Is accidental damage covered under warranty?","expected_sources":["warranty-faq.md"]}
+{"id":"warranty-03","question":"What information should I include in a warranty claim?","expected_sources":["warranty-faq.md"]}
+{"id":"warranty-04","question":"Does a warranty replacement restart the coverage period?","expected_sources":["warranty-faq.md"]}
+{"id":"warranty-05","question":"Can you guarantee a refund before assessing a warranty claim?","expected_sources":["warranty-faq.md"]}
+{"id":"store-01","question":"What are human support opening hours?","expected_sources":["store-information.md"]}
+{"id":"store-02","question":"Can I visit a physical Northstar Goods shop?","expected_sources":["store-information.md"]}
+{"id":"store-03","question":"What currency does the store use?","expected_sources":["store-information.md"]}
+{"id":"store-04","question":"Does opening a ticket immediately connect a live human?","expected_sources":["store-information.md"]}
+{"id":"store-05","question":"Which card brands are accepted in the fictional checkout policy?","expected_sources":["store-information.md"]}
+{"id":"unknown-01","question":"What is the CEO's favorite color?","expected_sources":[]}
+{"id":"unknown-02","question":"What is your 2027 Black Friday discount code?","expected_sources":[]}
+{"id":"unknown-03","question":"What insurance covers a parcel sent to the Moon?","expected_sources":[]}
+{"id":"unknown-04","question":"How many employees work at the store?","expected_sources":[]}
